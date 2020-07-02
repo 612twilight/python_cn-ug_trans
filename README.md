@@ -18,11 +18,11 @@ pip install requests , pip install lxml , pip install pypinyin
 ئالدى بىلەن:\
 Download the tarjima.py file and run it\
 下载 tarjima.py 文件并运行它\
-tarjima.py ھۆججىتىنى چۈشۈرۈپ ئىجرا قىلىڭ\
+tarjima.py ھۆججىتىنى چۈشۈرۈپ ئىجرا قىلىڭ
 
 ئىككىنچى قەدەمدە:\
 Enter Chinese words to get their Pinyin and Uighur translation\
-输入中文单词得到其拼音以及维吾尔文翻译
+输入中文单词得到其拼音以及维吾尔文翻译\
 خەنزۇچە يەككە سۆزنى كىرگۈزۈڭ پىنيىن ۋە ئۇيغۇرچە تەرجىمىسىنى ئېلىڭ
 
 ###### Serious statement: Please do not use these codes maliciously, the consequences will be at your own risk. I assume no responsibility.If infringement, contact me to delete
