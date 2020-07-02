@@ -4,6 +4,10 @@
 
 requirement:需求:تەلەپ
 بۇ پىروگىرامما يېزىلغان پايسون تىپى: پايسون3.7
+```python
 import requests
 import lxml
 import pypinyin
+```
+
+
